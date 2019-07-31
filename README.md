@@ -1,5 +1,7 @@
 # CloudBees Jenkins Advisor Plugin
 
+[![CloudBees Jenkins Support](https://img.shields.io/badge/Supported%20by-CloudBees-blue.svg?logo=cloudbees)](https://www.cloudbees.com/products/cloudbees-jenkins-support)
+
 Periodically uploads [support bundles](https://wiki.jenkins.io/display/JENKINS/Support+Core+Plugin) for processing by CloudBees Jenkins Advisor.
 
 To configure your Advisor uploads - *Manage Jenkins > CloudBees Jenkins Advisor*.
